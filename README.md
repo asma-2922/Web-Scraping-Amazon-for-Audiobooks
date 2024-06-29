@@ -1,6 +1,6 @@
 ## Web Scraping Amazon for Audiobooks
 
-### Project Overview
+### Project Description
 - Scraped data from Amazon to compile a dataset of audiobook details. </br>
 - Navigated through Amazon's audiobook listings using Python and BeautifulSoup to extract specific product information such as title, author, narrator, release date, publisher, listening length, language, version, program type, copyright details, ratings, and number of reviews.
 
